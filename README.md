@@ -5,27 +5,27 @@ In today's digital age, online product reviews play a crucial role in influencin
 
 Our system employs a multi-faceted approach to detect fake reviews, comprising six checks:
 
-1.Dual-view reviews
+1. Dual-view reviews
 
-2.Reviews from the same user promoting or demoting a brand
+2. Reviews from the same user promoting or demoting a brand
 
-3.Reviews from the same IP address promoting or demoting a brand
+3. Reviews from the same IP address promoting or demoting a brand
 
-4.Flooded reviews from the same user
+4. Flooded reviews from the same user
 
-5.Similar reviews posted in the same time frame
+5. Similar reviews posted in the same time frame
 
-6.Reviews with minimal text using Latent Semantic Analysis (LSA)
+6. Reviews with minimal text using Latent Semantic Analysis (LSA)
 
 ## Installation 
 
-1.Python 3 or above for the machine learning model
+1. Python 3 or above for the machine learning model
 
-2.Jupyter Notebook for the machine learning model
+2. Jupyter Notebook for the machine learning model
 
-3.Visual Studio Code for improved code readability for the full-stack product review app
+3. Visual Studio Code for improved code readability for the full-stack product review app
 
-4.Node.js and MongoDB for the full-stack application
+4. Node.js and MongoDB for the full-stack application
 
 ## Running the ML Model Locally
 
