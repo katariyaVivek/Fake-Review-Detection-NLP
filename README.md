@@ -29,11 +29,10 @@ Our system employs a multi-faceted approach to detect fake reviews, comprising s
 
 ## Running the ML Model Locally
 
-    '''
+    
       pip install  nltk, pickle, re, Pandas , random
 
 
-    '''
 - run jupyter notebook in cmd.
 
 Now, the ML model is ready to run.
