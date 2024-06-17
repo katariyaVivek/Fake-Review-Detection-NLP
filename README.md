@@ -59,5 +59,7 @@ The project is running now.
 ## Tech Stack
 
 **Programming languages**: Python, Node.js
+
 **Front-end technologies**: HTML, CSS, EJS
+
 **Libraries**: NLTK, Pickle, RE, Pandas
